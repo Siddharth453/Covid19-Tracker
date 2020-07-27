@@ -16,7 +16,7 @@ app.post('/result', (req, res) => {
         qs: { format: 'json', name: req.body.country },
         headers: {
             'x-rapidapi-host': 'covid-19-data.p.rapidapi.com',
-            'x-rapidapi-key': 'e70e35986dmshc210e9f2a9a48cep1ba473jsn1be593472af3',
+            'x-rapidapi-key': 'process.env.API_KEY',
             useQueryString: true
         }
     };
