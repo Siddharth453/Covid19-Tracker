@@ -6,7 +6,7 @@
   <li>Then type your country name or the country name you want..</li>
   <li>Then the enter key or click the search button.</li>
   <li>You will get the current COVID-19 Status of that country</li>
-  <li>Below you will see the summary of the Result and just Below that two buttons '< Back' And 'More >'</li>\
+  <li>Below you will see the summary of the Result and just Below that two buttons '< Back' And 'More >'</li>
   <li>If you click on the back button you will again come to th home page..</li>
   <li>If you click on the More button you will see the same input of of the result with some more information..</li>
 </p>
